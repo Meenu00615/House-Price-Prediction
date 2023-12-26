@@ -19,7 +19,7 @@ House Price Prediction system using Machine Learning with Python, specifically f
  **Feature Scaling:** Normalize or standardize numerical features if necessary.
  **Categorical Encoding:** Encode categorical variables if applicable. 
 
-**6. Build a Model: 
+**6. Build a Model:**
  **Choose Regression Algorithms:** Select regression algorithms suitable for predicting house prices, such as Linear Regression, Decision Trees, or Random Forest Regressor. 
  **Train Models:** Train different models using the training set. 
 
