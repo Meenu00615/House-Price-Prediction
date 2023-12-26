@@ -20,7 +20,8 @@ House Price Prediction system using Machine Learning with Python, specifically f
 **6. Build a Model: Choose Regression Algorithms:** Select regression algorithms suitable for predicting house prices, such as Linear Regression, Decision Trees, or Random Forest Regressor. 
  **Train Models:** Train different models using the training set. 
 
-**7. Evaluate Models: Performance Metrics:** Choose regression metrics (e.g., Mean Absolute Error, Mean Squared Error, R-squared) for model evaluation. Cross-Validation: Use cross-validation to assess the models' generalization performance. 
+**7. Evaluate Models:** 
+ **Performance Metrics:** Choose regression metrics (e.g., Mean Absolute Error, Mean Squared Error, R-squared) for model evaluation. Cross-Validation: Use cross-validation to assess the models' generalization performance. 
 
 **8. Select Best Model: Compare Models:** Evaluate and compare the performance of different regression models. Select Best Model: Choose the model with the best performance metrics. 
 
