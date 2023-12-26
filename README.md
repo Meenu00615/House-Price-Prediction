@@ -1,10 +1,12 @@
 # House-Price-Prediction
 House Price Prediction system using Machine Learning with Python, specifically focusing on **California house prices:  California House Price Prediction System**
 
-**1. Problem Definition:** Task: Predicting house prices in California based on various features. Objective: Develop a machine learning model that can accurately estimate house prices given specific input features. 
+**1. Problem Definition:** Task: Predicting house prices in California based on various features. 
+ **Objective:** Develop a machine learning model that can accurately estimate house prices given specific input features. 
 
 **2. Dataset:** Source: Utilize a dataset containing information about houses in California, including features like square footage, number of bedrooms, location, etc. 
- **Features:** Square footage, number of bedrooms, location (latitude and longitude), proximity to amenities, and other relevant factors. Target Variable: House price. 
+ **Features:** Square footage, number of bedrooms, location (latitude and longitude), proximity to amenities, and other relevant factors. 
+ **Target Variable:** House price.
 
 **3. Setup Environment: Libraries:** Import essential libraries such as pandas, scikit-learn, matplotlib, and seaborn for data manipulation, machine learning, and visualization. 
 
@@ -17,7 +19,8 @@ House Price Prediction system using Machine Learning with Python, specifically f
  **Feature Scaling:** Normalize or standardize numerical features if necessary.
  **Categorical Encoding:** Encode categorical variables if applicable. 
 
-**6. Build a Model: Choose Regression Algorithms:** Select regression algorithms suitable for predicting house prices, such as Linear Regression, Decision Trees, or Random Forest Regressor. 
+**6. Build a Model: 
+ **Choose Regression Algorithms:** Select regression algorithms suitable for predicting house prices, such as Linear Regression, Decision Trees, or Random Forest Regressor. 
  **Train Models:** Train different models using the training set. 
 
 **7. Evaluate Models:** 
