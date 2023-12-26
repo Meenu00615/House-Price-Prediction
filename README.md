@@ -8,9 +8,12 @@ House Price Prediction system using Machine Learning with Python, specifically f
 
 **3. Setup Environment: Libraries:** Import essential libraries such as pandas, scikit-learn, matplotlib, and seaborn for data manipulation, machine learning, and visualization. 
 
-**4. Load and Explore Data: Load Data:** Import the California house price dataset. **Explore Data:** Investigate basic statistics, data types, and any missing values. Visualize data distribution using histograms, scatter plots, or other relevant plots.
+**4. Load and Explore Data:**
+ **Load Data:** Import the California house price dataset. 
+ **Explore Data:** Investigate basic statistics, data types, and any missing values. Visualize data distribution using histograms, scatter plots, or other relevant plots.
 
-**5. Preprocess Data: Handle Missing Values:** Address any missing data in the dataset. 
+**5. Preprocess Data:**
+ **Handle Missing Values:** Address any missing data in the dataset. 
  **Feature Scaling:** Normalize or standardize numerical features if necessary.
  **Categorical Encoding:** Encode categorical variables if applicable. 
 
